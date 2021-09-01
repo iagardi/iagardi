@@ -2,7 +2,8 @@
 
 I am Istvan, a London based Junior Web Developer currently studying at _nology. 
 
-Connect with me on <a href src="https://www.linkedin.com/in/istvan-agardi-mih-91701681/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/istvan-agardi-mih-91701681/)
+&nbsp;
 
 <!--
 **iagardi/iagardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
