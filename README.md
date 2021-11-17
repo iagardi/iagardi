@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Istvan, a London based Junior Software Developer currently studying at _nology. 
+I am Istvan, a London based Junior Software Developer, I just recently finished a 12 weeks Software Development course at _nology . 
 
 You can reach out to me on <a href="https://www.linkedin.com/in/istvan-agardi-91701681/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> or <a href="mailto:istvan.agardi83@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
