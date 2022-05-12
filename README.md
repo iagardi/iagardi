@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Istvan, a London based Software Developer, I recently joined <a href="https://www.codurance.com/">Codurance</a> as a Software Craftperson-in-Training. 
+I am Istvan, a London based Software Developer, I am a Software Craftsman at <a href="https://www.codurance.com/">Codurance</a>.  
 
 You can reach out to me on <a href="https://www.linkedin.com/in/istvan-agardi-91701681/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> or <a href="mailto:istvan.agardi83@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
